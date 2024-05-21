@@ -31,5 +31,3 @@ sudo apt-get install -y vim
 ```bash
 ./install_profile.sh
 ```
-# terminal_profile
-# terminal_config
